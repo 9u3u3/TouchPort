@@ -1,0 +1,14 @@
+# Build output
+receiver/touchport-receiver
+android/.gradle/
+android/.kotlin/
+android/build/
+android/app/build/
+*.apk
+*.aab
+
+# Machine specific
+android/local.properties
+.idea/
+*.iml
+.DS_Store
